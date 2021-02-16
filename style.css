@@ -40,7 +40,7 @@ color:white;
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
 
   
   .topnav a:not(:first-child) {display: none;}
@@ -67,7 +67,7 @@ color:white;
   
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
   
   
   .topnav a.active {
@@ -156,7 +156,7 @@ padding: 30px 15px;
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
   .column {
     width: 100%;
     display: block;
@@ -257,7 +257,7 @@ z-index: -9999;
   font-size:24px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
 .about{
   padding: 60px 5px 5px 5px;height: auto;
 }
@@ -315,7 +315,7 @@ z-index: -9999;
   font-size:24px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
 .specs{
   padding: 60px 5px 5px 5px;height: auto;
 }
@@ -376,7 +376,7 @@ border:none;
   font-size:24px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
 .hist{
   padding: 60px 5px 5px 5px;height: auto;
 }
@@ -552,7 +552,7 @@ input[type=text], select, textarea {
   right: 0;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
   .column9, input[type=submit] {
     width: 100%;
     margin-top: 0;
