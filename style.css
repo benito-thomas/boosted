@@ -429,7 +429,13 @@ z-index: -9999;
 }
 
 
-
+@media screen and (max-width: 650px) {
+  .shop .singleitems {
+    width: 100%;
+    display: block;
+    margin-bottom: 0px;
+  }
+}
 
 
 .shop .button span {
