@@ -564,6 +564,12 @@ input[type=text], select, textarea {
   color:#ff4f00;
   font-style:italic;
 }
+.rev img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .rev h3{
   font-size: 30px;
 
